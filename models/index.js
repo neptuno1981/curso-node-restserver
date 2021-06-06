@@ -13,6 +13,6 @@ module.exports = {
     Producto,
     Role,
     Server,
-    Usuario,
+    Usuario
 }
 
